@@ -84,7 +84,7 @@
 <hr>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="summary-and-next-steps">Summary and Next Steps<a href="https://qnquangg.github.io/blog/aosp-md-launcher-research#summary-and-next-steps" class="hash-link" aria-label="Direct link to Summary and Next Steps" title="Direct link to Summary and Next Steps" translate="no">​</a></h2>
 <p>Building and testing MD Launcher helped me understand how Android handles multi-display features. The main key is using <code>ActivityOptions.setLaunchDisplayId()</code> to open apps on specific screens.</p>
-<p>I am continuing to learn AOSP internals, system services, and multi-display development. If you are looking for a freelance or part-time developer for Android system or automotive projects, please feel free to reach out!</p>
+<p>I am continuing to learn AOSP internals, system services, and multi-display development.</p>
 <hr>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="references">References<a href="https://qnquangg.github.io/blog/aosp-md-launcher-research#references" class="hash-link" aria-label="Direct link to References" title="Direct link to References" translate="no">​</a></h2>
 <ul>
