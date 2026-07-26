@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Exploring AOSP MD Launcher: My Notes on Building and Multi-Display in Android","permalink":"/blog/aosp-md-launcher-research","unlisted":false,"date":"2026-07-26T00:00:00.000Z"}]}')}}]);
