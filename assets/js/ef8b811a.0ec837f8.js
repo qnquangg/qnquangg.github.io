@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["416"],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"Quang Nguyen","title":"Software Engineer & Open Source Enthusiast","url":"https://github.com/qnquangg","imageURL":"https://github.com/qnquangg.png","key":"qnquangg","page":null,"count":2}]}')}}]);
